@@ -22,7 +22,7 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
 
-`git clone git@github.com:thebarcelonaguy/DSCI-551-Project.git`
+`https://github.com/revatip2/hadoop-mapreduce-emulation.git`
 
 2. Run the program:
 
